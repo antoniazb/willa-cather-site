@@ -1,0 +1,58 @@
+
+h2 {
+	margin-top: 10px;
+	text-align: left;
+}
+
+.latest-book img {
+	width: 100%;
+}
+
+.mt-20 {
+	margin-top: 20px;
+}
+
+.mt-10 {
+	margin-top: 10px;
+}
+
+.mr-10 {
+	margin-right: 10px;
+}
+
+.author-pic-frame {
+	background-color: #eee;
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	padding: 3px;
+	display: flex;
+}
+
+.author-pic {
+	max-width: 200px;
+	flex: 1;
+	margin: auto;
+}
+
+.social {
+	background-color: lightgray;
+	padding-bottom: 50px;
+}
+
+body {
+	background-color: #dcf3f7;
+	font-family: "Slabo 13px", Arial, sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: "Playfair Display", Georgia, serif;
+}
+
+.container {
+	background-color: white;
+}
+
+
+
+
+
